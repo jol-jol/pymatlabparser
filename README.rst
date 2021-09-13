@@ -2,6 +2,8 @@
 pymatlabparser
 ===============
 
+Disclaimer: This is a side project of mine and has not been rigorously tested.
+
 **pymatlabparser** is a parser for Matlab/Octave language, a popular language
 in engineering and engineering education. This parser can handle many of the
 unique syntax rules of Matlab, such as:
